@@ -320,26 +320,6 @@
     [
       "9538e4ed-27e6-4c37-b989-9859dc0d49e8",
       ""
-    ],
-    [
-      "b745dd23-b24d-4aa6-8791-14d2dc427834",
-      "cam_interface_sch"
-    ],
-    [
-      "98053798-1bbf-43dc-b59a-0589d66ab8ae",
-      "printer_interface_sch"
-    ],
-    [
-      "19d7d740-8eb2-4c5b-8bfa-9b64f2a89d6a",
-      "lcd_interface_sch"
-    ],
-    [
-      "8c9bd548-2313-4fc3-bc78-433a2591b0a0",
-      "button_interface_sch"
-    ],
-    [
-      "9d75a05d-aadd-4b56-a9bb-f8fe975728e2",
-      "esp8266_interface"
     ]
   ],
   "text_variables": {}
